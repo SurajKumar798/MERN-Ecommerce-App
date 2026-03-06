@@ -81,7 +81,7 @@ function Login() {
          
           <button
             type="submit"
-            className="w-full py-3 rounded-xl font-semibold text-sm flex items-center justify-center gap-2 transition-all duration-200 mt-2 border bg-blue-600 text-white"
+            className="w-full py-3 rounded-xl font-semibold text-sm flex items-center justify-center gap-2 transition-all duration-200 mt-2 border bg-blue-600 text-white cursor-pointer"
           >
             Login
           </button>
