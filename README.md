@@ -7,7 +7,7 @@ A full-stack e-commerce web application built with **React**, **Node.js**, **Exp
 
 ## 🖥️ Live Demo
 
-> Coming soon / Add your deployed link here
+> (https://ecommerce-frontend-ztcc.onrender.com/)
 
 ---
 
